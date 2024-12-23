@@ -20,7 +20,7 @@ we use gitflow workflow but we just make 3 branches
 - main branch
 - develop branch
 - hotfix branch
-![Gitflow](resources/gitflow.jpg)
-We use gitkraken to visualize the workflow on the branches
+<br>![Gitflow](resources/gitflow.jpg)<br>
+We use gitkraken to visualize the workflow on the branches<br>
 ![Gitkraken](resources/gitkraken.jpg)
 
